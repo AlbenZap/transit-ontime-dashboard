@@ -1,6 +1,6 @@
 # Public Transit On-time Performance PowerBI Dashboard
 
-### [View Dashboard]([https://example.com](https://app.powerbi.com/view?r=eyJrIjoiY2JhZGFjNGYtNjBhMC00YjQxLWJmMWMtOGJjZGI1YWY4ZTZiIiwidCI6IjExMTNiZTM0LWFlZDEtNGQwMC1hYjRiLWNkZDAyNTEwYmU5MSIsImMiOjN9)
+### [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2JhZGFjNGYtNjBhMC00YjQxLWJmMWMtOGJjZGI1YWY4ZTZiIiwidCI6IjExMTNiZTM0LWFlZDEtNGQwMC1hYjRiLWNkZDAyNTEwYmU5MSIsImMiOjN9)
 
 ## Problem Statement
 
